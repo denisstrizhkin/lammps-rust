@@ -1,0 +1,1 @@
+#include <lammps/library.h>
