@@ -88,6 +88,13 @@ dependencies = [
 name = "lammps-rust"
 version = "0.1.0"
 dependencies = [
+ "lammps-sys",
+]
+
+[[package]]
+name = "lammps-sys"
+version = "0.1.0"
+dependencies = [
  "bindgen",
 ]
 
